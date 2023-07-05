@@ -1,0 +1,2 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Projects/C#/AnnasWorld/AnnasWorld/Content/texture_atlas.png","D:/Projects/C#/AnnasWorld/AnnasWorld/Content/bin/DesktopGL/Content/texture_atlas.xnb","TextureProcessor","Texture2DContent",1222,65621,0.1182604
