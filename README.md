@@ -1,2 +1,2 @@
 # AnnasWorld-CSharp
-ported AnnasWorld from java to monogame also scrapped
+ported AnnasWorld from libgdx to monogame also scrapped
